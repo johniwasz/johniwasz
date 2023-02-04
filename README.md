@@ -1,6 +1,8 @@
 [![Johns's GitHub stats](https://github-readme-stats.vercel.app/api?username=johniwasz&show_icons=true&theme=synthwave)](https://github.com/johniwasz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johniwasz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johniwasz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johniwasz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **johniwasz/johniwasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
